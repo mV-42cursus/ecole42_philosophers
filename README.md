@@ -41,3 +41,6 @@ Run the program with:
 - Proper synchronization of threads is crucial to solve this problem effectively.
 - Be mindful of potential race conditions and deadlocks.
 
+# Pipex Project
+
+For more details, visit the [PHILOSOPHERS NOTION PAGE](https://dykim04.notion.site/ecole-42-project-philosophers-98b69a5256fd45f9a57e17c741669a88).
